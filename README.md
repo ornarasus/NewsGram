@@ -1,0 +1,2 @@
+# NewsGram
+Новостной Telegram-Бот
